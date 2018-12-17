@@ -1,0 +1,2 @@
+# flight-notify
+FlightAware-based email notification service. This project was created to provide short, concise, customizable notifications of flight arrivals and departures to allow better operational efficiencies.
