@@ -1,6 +1,6 @@
 import smtplib
-from email.MIMEMultipart import MIMEMultipart
-from email.MIMEText import MIMEText
+from email.mime.multipart import MIMEMultipart
+from email.mime.text import MIMEText
 
 user_name = input("Enter email user name:")
 password = input("Enter email password:")
